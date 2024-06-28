@@ -4,7 +4,6 @@ $(window).on('load', function() { var documentSettings = {};  var group2color = 
   allTextLabelsLayers = [];  allTextLabels = [];
   /** Here all data processing from the spreadsheet happens  */
   var mapData;/** Triggers the load of the spreadsheet and map creation */
-  googleApiKey=szgglnewApiKey5
   if (typeof googleApiKey !== 'undefined' && googleApiKey) {
      var parse = function(res) {return Papa.parse(Papa.unparse(res[0].values), {header: true} ).data;}
      var apiUrl = 'https://sheets.googleapis.com/v4/spreadsheets/'; var spreadsheetId = googleDocURL.indexOf('/d/') > 0 ? googleDocURL.split('/d/')[1].split('/')[0] : googleDocURL
