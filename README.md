@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map [https://zawsx.github.io/szgslmap](zawsx.github.io/szgslmap/)
+- Leaflet Map [Leaflet Map](https://zawsx.github.io/szgslmap/)
 - Google Sheets template [Google Sheets template](https://docs.google.com/spreadsheets/d/1q6QqUUmM48TutfjbSppK3pFD9jvYI4Jmv_B3Dcsst8k/edit?gid=0#gid=0)
 
 ## Create your own
